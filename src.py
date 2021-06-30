@@ -65,10 +65,4 @@ def check(email, data):
     except:
         print('error')
         face()
-        try:
-            print(r.text)
-            face()
-        except:
-            ''
-        face()
 face()
